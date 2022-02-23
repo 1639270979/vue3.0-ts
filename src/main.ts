@@ -5,7 +5,8 @@
  * @Date: 2021-09-27 16:25:41
  * @LastEditors: yong.zhu
  * @LastEditTime: 2021-10-08 17:21:07
- * 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 // git token
+ * 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 // git token master
+ * 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 // git token main
  */
 import { createApp } from "vue";
 import App from "./App.vue";
